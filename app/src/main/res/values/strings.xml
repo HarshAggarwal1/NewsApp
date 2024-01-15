@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewsApp2</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="no_data">No Data Found</string>
+    <string name="retry">Retry</string>
+    <string name="news_api_key">20ac22b71050444780607ff4e837f8b4</string>
+    <string name="base_url">https://newsapi.org/v2/</string>
+
+</resources>
